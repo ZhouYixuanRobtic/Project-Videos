@@ -34,13 +34,13 @@ The Nursing Robot is a humanoid robot, while has two wheels instead of two legs.
   [![Everything Is AWESOME](https://github.com/ZhouYixuanRobtic/Project-Videos/blob/master/Figures/Panda.jpg)](https://youtu.be/y1BJeNn2_po "Everything Is AWESOME") 
 - Jogging1
   
-  [![Everything Is AWESOME](https://github.com/ZhouYixuanRobtic/Project-Videos/blob/Figures/master/Jogging1.jpg)](https://youtu.be/-z7q_2DdtB8 "Everything Is AWESOME")
+  [![Everything Is AWESOME](https://github.com/ZhouYixuanRobtic/Project-Videos/blob/master/Figures/Jogging1.jpg)](https://youtu.be/-z7q_2DdtB8 "Everything Is AWESOME")
   
 - Jogging2
 
-  [![Everything Is AWESOME](https://github.com/ZhouYixuanRobtic/Project-Videos/blob/Figures/master/Jogging2.jpg)](https://youtu.be/lEyDBkr1gHU "Everything Is AWESOME")
+  [![Everything Is AWESOME](https://github.com/ZhouYixuanRobtic/Project-Videos/blob/master/Figures/Jogging2.jpg)](https://youtu.be/lEyDBkr1gHU "Everything Is AWESOME")
   
 - Walking2
 
-  [![Everything Is AWESOME](https://github.com/ZhouYixuanRobtic/Project-Videos/blob/Figures/master/Walking2.jpg)](https://youtu.be/qooyvnA6M9g "Everything Is AWESOME")
+  [![Everything Is AWESOME](https://github.com/ZhouYixuanRobtic/Project-Videos/blob/master/Figures/Walking2.jpg)](https://youtu.be/qooyvnA6M9g "Everything Is AWESOME")
   
